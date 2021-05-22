@@ -1,4 +1,4 @@
-import { readJSON, writeJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
+import { readJSON } from 'https://deno.land/x/flat@0.0.10/mod.ts' 
 
 const toName = ({ name }) => name
 
@@ -18,6 +18,8 @@ const cleanedData = data.map(d => {
 })
 
 // Write a new JSON file with our filtered data
-await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), cleanedData, { spaces: 2 })
-console.log(JSON.stringify(cleanedData, null, 2))
+const jsonString = JSON.stringify(cleanedData, null, 2)
+
+Deno.writeTextFileSync(Deno.env.get('POSTPROCESS_FILENAME'), jsonString)
+    
 console.log('Done.')
