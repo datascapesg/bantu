@@ -18,5 +18,5 @@ const cleanedData = data.map(d => {
 })
 
 // Write a new JSON file with our filtered data
-await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), cleanedData) // create a new JSON file with just the Bitcoin price
+await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), cleanedData)
 console.log('Done.')
