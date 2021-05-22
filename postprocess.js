@@ -19,4 +19,5 @@ const cleanedData = data.map(d => {
 
 // Write a new JSON file with our filtered data
 await writeJSON(Deno.env.get('POSTPROCESS_FILENAME'), cleanedData, { spaces: 2 })
+console.log(JSON.stringify(cleanedData, null, 2))
 console.log('Done.')
