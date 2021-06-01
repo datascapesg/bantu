@@ -181,66 +181,6 @@
     "ribbons": []
   },
   {
-    "id": 2016,
-    "title": "Art Documentor",
-    "description": "Artwork Documentors \nTuesdays 3pm to 6pm at Bedok\nThursdays 3pm to 6pm at Changi City Point\n\n- Measure artworks\n- Document them\n- Photograph them\n- Weigh them ",
-    "external_url": "www.vsa.org.sg",
-    "contact_email": "vileen@vsa.org.sg",
-    "one_line_description": "To inventorize artworks",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-03-23 22:00:00",
-    "end_datetime": "2021-12-07 23:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 750,
-    "user_id": 15625,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 11,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 1,
-    "current_team_size": 18,
-    "approval_status": null,
-    "organizer": {
-      "id": 148,
-      "name": "Very Special Arts (VSA)",
-      "description": "Launched in September 1993 by Singapore’s Ambassador-at-Large and VSA Patron, Professor Tommy Koh, Very Special Arts Singapore is a local charity organisation dedicated to providing opportunities for people with disabilities to be involved in the arts. For the past 24 years, VSA Singapore has been running successful art programmes, workshops, competitions and art exhibitions for the special needs community, creating awareness among members of the public of their immense talent and resilience.\n\nThrough our programmes, we:\nPromote the educational, social, rehabilitative and therapeutic benefits of visual, performing and literary arts;\nIntegrate individuals with disabilities into mainstream society through the arts; and\nAssist them in obtaining financial independence through arts and arts-creation.\n\nOur Vision\nA world where people with disabilities are empowered through the arts, contribute to and integrate with the community.\n\nOur Mission\nTo create and provide access and opportunities for people with disabilities through the arts.",
-      "address": "133 Bedok North Ave 3, Block 133, Singapore 460133",
-      "slug_name": "very-special-arts-vsa",
-      "email": "vileen@vsa.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/d82214bbf72baeb704736ceea54b99a77eda738738f4ea266b48a3afd298dd80.jpg"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1616508000,
-    "location": {
-      "text": "Very Special Arts Singapore (VSA Singapore) @Bedok, VSA Art Space @ Bedok #01-138, 133 Bedok North Ave 3, Singapore 460133",
-      "lat": "1.32751800",
-      "lng": "103.93574400"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "disability",
-      "arts",
-      "first timers",
-      "volunteer",
-      "artwork"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Family",
-      "Arts & Culture",
-      "Disabled"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2002,
     "title": "Medical Escort needed (Weekdays)",
     "description": "We are looking for a volunteer to help to bring one of our elderly clients to the hospital for medical appointment. The medical appointment would be on weekdays and transport cost will be borne by our staff. Client may be on wheelchair bound as well hence, we will be providing training for the interested volunteers.",
