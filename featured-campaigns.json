@@ -1,61 +1,5 @@
 [
   {
-    "id": 2206,
-    "title": "Moving of Storage Items",
-    "description": "We need your help in moving some storage items at our central storage space at AMK. \n\n- Volunteers must be physically strong and fit\n- Open to all!\n- Please note that this activity does not involve our beneficiaries or clients, and will only involve assisting our staff.",
-    "external_url": "www.thkmc.org.sg",
-    "contact_email": "volunteer@thkmc.org.sg",
-    "one_line_description": "Assist in the moving of storage items at our central storage ",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-06-25 15:00:00",
-    "end_datetime": "2021-06-25 16:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 7,
-    "user_id": 47936,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 0,
-    "country": "SG",
-    "period": 0,
-    "commitment_type": 0,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 0,
-    "approval_status": null,
-    "organizer": {
-      "id": 265,
-      "name": "Thye Hua Kwan Moral Charities",
-      "description": "ABOUT THK\n\nThye Hua Kwan Moral Charities (THKMC) is the charity arm of Thye Hua Kwan Moral Society (THKMS) and was incorporated in October 2011 as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the various groups in our community through more than 70 programmes, services, welfare homes and centres. These services are catered to namely the Elderly, Families, Children & Youths and Persons with Disabilities.\n\n\nWHY VOLUNTEER WITH THK?\n\nAlways visiting the same old places, or doing the same things during your free time? Not sure how you can better invest your time while making a difference. \n\nWe are here to change your perspective as there’s always a fresh way of looking at something. “Sometimes a break from your routine is the very thing you need!” \nBe a THK Aviator and allocate your time to worthy causes. From caring for youths at risk and the elderly to lending a hand at outreach activities and events, we have endless volunteering opportunities where you will feel good by doing good. \n\n1.\tDiscover yourself – you will be happier and healthier\nLife can be full of challenges but with every new volunteering opportunity, it gives you a new perspective. Donating time to others is good for your mind and body as you get to interact with people and be their voice. The more you volunteer, the more experiences you gain, thus having a special sense of belonging and achievement. \n\n2.\tYou have time for more\nWhen you give your time to others, in turn you will have more time on hand. You connect with others, and when focusing on other people, it makes you feel less time constrained.\n \n3.\tLearn and gain new skills \nVolunteering is like an adventure, oftentimes you might find yourself in for a fun surprise. Giving your time opens opportunities for you to develop and practise new skills such as communication, social and leadership skills. Inspire others to give back and journey as one to help transform lives.",
-      "address": "1 North Bridge Road #03-33 High Street Centre Singapore 179094",
-      "slug_name": "thye-hua-kwan-moral-charities",
-      "email": "volunteer@thkmc.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/2133f20d5b13ea1534d7bfc563672850df071486eebedf9f7e9304ff81ce098d.jpg"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/h7zunvcSl5iLOnaWfRbdfgDp5edKcxttlikROzjO.jpg",
-    "imageOriginalUrl": "blob",
-    "imageHttpUrl": null,
-    "timestamp": 1624604400,
-    "location": {
-      "text": "4 Ang Mo Kio Ave 12, 4 Ang Mo Kio Ave 12, Singapore 569498",
-      "lat": "1.37261670",
-      "lng": "103.86664420"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "Open to all",
-      "First timers"
-    ],
-    "skills": [
-      "Physically fit",
-      "Moving of Storage items "
-    ],
-    "badges": [],
-    "categories": [],
-    "ribbons": []
-  },
-  {
     "id": 2189,
     "title": "Volunteer Front Desk Assistant (Family Service Centre)",
     "description": "With 7 centres across the island,  THK Family Service Centres promote and improve the social well-being of every individual in the family, at every stage of life. Receive satisfaction through helping others!\n\nProvides assistance and information to walk-in at the Family Service Centres.\n\nResponsibilities:\n•\tUnderstand walk-in clients’ needs, provide basic information and channel the inquiries to the relevant staff for action and follow-up. \n•\tAssist and provide general day to day administrative support such as data entry work. \n•\tMaintain the general upkeep of the center in terms of cleanliness. \n\nRequirements:\n•\tAbility to speak in Mother Tongue and/or one dialect.\n•\tAbility to read and speak in English is preferred.\n•\tMaintain confidentiality of all clients’ information.\n•\tRequired to clear background screening\n\nTime Commitment:\n•\tSelection of date and time as per volunteer’s availability\n•\tMinimum 4 hours per session\n\nLocation:\nWe would match you to the nearest centre;\n•\tTHK Family Service Centre @ MacPherson\nBlk 91 Paya Lebar Way #01-3023, Singapore 370091\n•\tTHK FSC @ Bedok North\nBlk 554 Bedok North St 3 #01-241, Singapore 460554\n•\tTHK Family Service Centre @ Bukit Panjang\nBlk 139 Petir Road #01-448, Singapore 670139\n•\tTHK FSC @ Tanjong Pagar\nBlk 18 Jalan Membina #04-01, Singapore 164018\n•\tTHK FSC @ Jurong\nBlk 183B Boon Lay Ave, #01-716, Singapore 642183\n•\tTHK Centre for Family Harmony (CFH) @ Circuit\nBlk 37 Circuit Road #02-455, Singapore 370037\n•\tTHK Centre for Family Harmony (CFH) @ Commonwealth\n54 Commonwealth Drive #01-566 Singapore 142054\n",
@@ -77,7 +21,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 1,
+    "current_team_size": 2,
     "approval_status": null,
     "organizer": {
       "id": 265,
