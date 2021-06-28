@@ -475,7 +475,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 9,
+    "current_team_size": 10,
     "approval_status": null,
     "organizer": {
       "id": 265,
@@ -615,7 +615,7 @@
       "imageUrl": "https://workspace.bantu.life/storage/a7dcf85c7f7676a3ae7c254bd0be9190c6de20e47678fc3af71963569f4c7dfb.jpg"
     },
     "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/0bFHA2mt9Kgx9oWOcQ8qo88kXGyvkRz1TcRL4mND.png",
+    "imageUrl": "https://workspace.bantu.life/storage/3K05v0rzciwIS2GD2GUXrRPaIvytEgJEowBLd5Sy.png",
     "imageOriginalUrl": "blob",
     "imageHttpUrl": null,
     "timestamp": 1616983200,
