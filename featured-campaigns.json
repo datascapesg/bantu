@@ -1,27 +1,27 @@
 [
   {
-    "id": 2226,
-    "title": "Digital Circles",
-    "description": "j",
-    "external_url": null,
-    "contact_email": "dawn.toh@gmail.com",
-    "one_line_description": "j",
+    "id": 2227,
+    "title": "KKCS VC Volunteer Orientation",
+    "description": "Hello! If you are here, you have just received a signup link to join our KKCS VC Family! We look forward to meeting you during this Volunteer Orientation to warmly welcome you into our family :)",
+    "external_url": "https://www.kkcs.org.sg/you-can-help/volunteer/",
+    "contact_email": "samuellim@kkcs.org.sg",
+    "one_line_description": "For first time KKCS VC Volunteers",
     "video_conference_url": null,
     "is_online": 1,
-    "start_datetime": "2021-07-08 17:00:00",
-    "end_datetime": "2021-07-15 18:00:00",
+    "start_datetime": "2021-07-09 13:00:00",
+    "end_datetime": "2021-12-31 14:00:00",
     "expiry_datetime": null,
-    "max_team_size": 10,
+    "max_team_size": 90,
     "user_id": 56862,
     "created_at": null,
     "offline_status": 1,
-    "deadline_days": 1,
+    "deadline_days": 0,
     "country": "SG",
-    "period": 1,
+    "period": 2,
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 2,
+    "current_team_size": 1,
     "approval_status": null,
     "organizer": {
       "id": 454,
@@ -29,27 +29,30 @@
       "description": null,
       "address": null,
       "slug_name": "sg-cares-volunteer-centre-at-jalan-besar",
-      "email": "sumesh@kkcs.org.sg",
+      "email": "samuellim@kkcs.org.sg",
       "imageUrl": "https://workspace.bantu.life/images/no_user_image.png"
     },
     "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1625734800,
+    "imageUrl": "https://workspace.bantu.life/storage/K6EaXtvYIcpyuLUQ8jsKbITrbVHE9KuoDjDXTvzj.jpg",
+    "imageOriginalUrl": "blob",
+    "imageHttpUrl": null,
+    "timestamp": 1625806800,
     "location": {
       "text": null,
       "lat": null,
       "lng": null
     },
     "is_upcoming_timeslots_filled": false,
-    "tags": [],
-    "skills": [
-      "good"
+    "tags": [
+      "On-boarding",
+      "training",
+      "Volunteer Orientation",
+      "First-timers"
     ],
+    "skills": [],
     "badges": [],
     "categories": [
-      "Sports & Recreation"
+      "Technology"
     ],
     "ribbons": []
   },
