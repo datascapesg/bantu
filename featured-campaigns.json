@@ -60,27 +60,27 @@
   },
   {
     "id": 2227,
-    "title": "KKCS VC Volunteer Orientation",
-    "description": "Hello! If you are here, you have just received a signup link to join our KKCS VC Family! We look forward to meeting you during this Volunteer Orientation to warmly welcome you into our family :)",
+    "title": "KKCS VC Volunteer Registration and Orientation",
+    "description": "Hello! If you are here, you have just received a signup link to join our KKCS VC Family! Please Register as our Volunteer and we look forward to meeting you during an upcoming Volunteer Orientation to warmly welcome you into our family :)",
     "external_url": "https://www.kkcs.org.sg/you-can-help/volunteer/",
     "contact_email": "samuellim@kkcs.org.sg",
     "one_line_description": "For first time KKCS VC Volunteers",
     "video_conference_url": null,
     "is_online": 1,
-    "start_datetime": "2021-07-09 13:00:00",
-    "end_datetime": "2021-12-31 14:00:00",
+    "start_datetime": "2021-07-14 11:00:00",
+    "end_datetime": "2022-05-31 12:00:00",
     "expiry_datetime": null,
-    "max_team_size": 90,
+    "max_team_size": 330,
     "user_id": 56862,
     "created_at": null,
     "offline_status": 1,
-    "deadline_days": 0,
+    "deadline_days": 5,
     "country": "SG",
     "period": 2,
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 1,
+    "current_team_size": 0,
     "approval_status": null,
     "organizer": {
       "id": 454,
@@ -92,10 +92,10 @@
       "imageUrl": "https://workspace.bantu.life/images/no_user_image.png"
     },
     "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/K6EaXtvYIcpyuLUQ8jsKbITrbVHE9KuoDjDXTvzj.jpg",
+    "imageUrl": "https://workspace.bantu.life/storage/HkwKvGDJqtNLiEZIqw2lAVFPoSNsYF2g66NzAVNa.png",
     "imageOriginalUrl": "blob",
     "imageHttpUrl": null,
-    "timestamp": 1625806800,
+    "timestamp": 1626231600,
     "location": {
       "text": null,
       "lat": null,
@@ -103,15 +103,22 @@
     },
     "is_upcoming_timeslots_filled": false,
     "tags": [
+      "First-timers",
       "On-boarding",
       "training",
       "Volunteer Orientation",
-      "First-timers"
+      "membership",
+      "Registration"
     ],
     "skills": [],
     "badges": [],
     "categories": [
-      "Technology"
+      "Elderly",
+      "Children",
+      "Youth",
+      "Family",
+      "Health",
+      "Disabled"
     ],
     "ribbons": []
   },
