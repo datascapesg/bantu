@@ -8,8 +8,8 @@
     "one_line_description": "Find out more about Wills and LPA as our volunteer lawyer shares his legal knowledge through this online sharing. ",
     "video_conference_url": null,
     "is_online": 1,
-    "start_datetime": "2021-07-22 12:00:00",
-    "end_datetime": "2021-07-22 13:00:00",
+    "start_datetime": "2021-07-22 16:00:00",
+    "end_datetime": "2021-07-22 17:00:00",
     "expiry_datetime": null,
     "max_team_size": 20,
     "user_id": 63304,
@@ -36,7 +36,7 @@
     "imageUrl": "https://workspace.bantu.life/storage/u1PodW7T6E9zvyNM11iJuLbJymNA5eTZeDpHcDMj.png",
     "imageOriginalUrl": "blob",
     "imageHttpUrl": null,
-    "timestamp": 1626926400,
+    "timestamp": 1626940800,
     "location": {
       "text": null,
       "lat": null,
@@ -80,7 +80,7 @@
     "commitment_type": 0,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 37,
+    "current_team_size": 38,
     "approval_status": null,
     "organizer": {
       "id": 265,
