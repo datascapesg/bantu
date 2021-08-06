@@ -8,8 +8,8 @@
     "one_line_description": "Train-the-trainers Cajon interest group",
     "video_conference_url": null,
     "is_online": 0,
-    "start_datetime": "2021-08-27 19:00:00",
-    "end_datetime": "2021-11-26 20:00:00",
+    "start_datetime": "2021-08-27 20:00:00",
+    "end_datetime": "2021-11-26 21:00:00",
     "expiry_datetime": null,
     "max_team_size": 280,
     "user_id": 47936,
@@ -33,10 +33,10 @@
       "imageUrl": "https://workspace.bantu.life/storage/2133f20d5b13ea1534d7bfc563672850df071486eebedf9f7e9304ff81ce098d.jpg"
     },
     "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/lOp8msaGhFZpOE6lOksHk91HQptHlwNEzVLGGNlU.png",
+    "imageUrl": "https://workspace.bantu.life/storage/EXD4TQXabINyAfPTHvUYuaOEZRWfuDWhtZrCFe2X.png",
     "imageOriginalUrl": "blob",
     "imageHttpUrl": null,
-    "timestamp": 1630062000,
+    "timestamp": 1630065600,
     "location": {
       "text": "645 Ang Mo Kio Avenue 6, Ang Mo Kio Street 61, #01-4937, Singapore 560645",
       "lat": "1.37931820",
@@ -839,7 +839,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 13,
+    "current_team_size": 14,
     "approval_status": null,
     "organizer": {
       "id": 265,
