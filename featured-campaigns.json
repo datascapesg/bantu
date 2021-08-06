@@ -1,5 +1,62 @@
 [
   {
+    "id": 2284,
+    "title": "Cajon volunteer ",
+    "description": "In this programme, we look for like-minded individuals who want to empower and enrich the seniors through musical instruments, CAJON\n\nRequirements\n- You must commit a minimum 2 hours of training  per week( tentatively on friday afternoon during from 4pm-6pm.\nOnce you complete a full 5 sessions training, you will need to commit to volunteer\ntwice a month on friday afternoon 2pm-4pm.\n\n- You should possess the following skills:\n* Good Listener\n* Ability to interact with a seniors through the following: Mandarin, Malay, Hindi, Tamil and other dialects\n* Caring and sharing attitude\n* Patient in imparting musical instrumental knowledge\n\nYou can look forward to:\n- Training the seniors, steering them away from depression and helping them to discover a new skill set\n\n**All suitable candidates will go through a simple interview and a volunteer's induction programme.\n**Your schedule will be discussed after signup.",
+    "external_url": "www.thkmc.org.sg",
+    "contact_email": "volunteer@thkmc.org.sg",
+    "one_line_description": "Train-the-trainers Cajon interest group",
+    "video_conference_url": null,
+    "is_online": 0,
+    "start_datetime": "2021-08-27 19:00:00",
+    "end_datetime": "2021-11-26 20:00:00",
+    "expiry_datetime": null,
+    "max_team_size": 280,
+    "user_id": 47936,
+    "created_at": null,
+    "offline_status": 1,
+    "deadline_days": 21,
+    "country": "SG",
+    "period": 1,
+    "commitment_type": 1,
+    "visibility": 0,
+    "all_timeslots_compulsory": 1,
+    "current_team_size": 0,
+    "approval_status": null,
+    "organizer": {
+      "id": 265,
+      "name": "Thye Hua Kwan Moral Charities",
+      "description": "ABOUT THK\n\nThye Hua Kwan Moral Charities (THKMC) is the charity arm of Thye Hua Kwan Moral Society (THKMS) and was incorporated in October 2011 as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the various groups in our community through more than 70 programmes, services, welfare homes and centres. These services are catered to namely the Elderly, Families, Children & Youths and Persons with Disabilities.\n\n\nWHY VOLUNTEER WITH THK?\n\nAlways visiting the same old places, or doing the same things during your free time? Not sure how you can better invest your time while making a difference. \n\nWe are here to change your perspective as there’s always a fresh way of looking at something. “Sometimes a break from your routine is the very thing you need!” \nBe a THK Aviator and allocate your time to worthy causes. From caring for youths at risk and the elderly to lending a hand at outreach activities and events, we have endless volunteering opportunities where you will feel good by doing good. \n\n1.\tDiscover yourself – you will be happier and healthier\nLife can be full of challenges but with every new volunteering opportunity, it gives you a new perspective. Donating time to others is good for your mind and body as you get to interact with people and be their voice. The more you volunteer, the more experiences you gain, thus having a special sense of belonging and achievement. \n\n2.\tYou have time for more\nWhen you give your time to others, in turn you will have more time on hand. You connect with others, and when focusing on other people, it makes you feel less time constrained.\n \n3.\tLearn and gain new skills \nVolunteering is like an adventure, oftentimes you might find yourself in for a fun surprise. Giving your time opens opportunities for you to develop and practise new skills such as communication, social and leadership skills. Inspire others to give back and journey as one to help transform lives.",
+      "address": "1 North Bridge Road #03-33 High Street Centre Singapore 179094",
+      "slug_name": "thye-hua-kwan-moral-charities",
+      "email": "volunteer@thkmc.org.sg",
+      "imageUrl": "https://workspace.bantu.life/storage/2133f20d5b13ea1534d7bfc563672850df071486eebedf9f7e9304ff81ce098d.jpg"
+    },
+    "selected_fields": null,
+    "imageUrl": "https://workspace.bantu.life/storage/lOp8msaGhFZpOE6lOksHk91HQptHlwNEzVLGGNlU.png",
+    "imageOriginalUrl": "blob",
+    "imageHttpUrl": null,
+    "timestamp": 1630062000,
+    "location": {
+      "text": "645 Ang Mo Kio Avenue 6, Ang Mo Kio Street 61, #01-4937, Singapore 560645",
+      "lat": "1.37931820",
+      "lng": "103.84223180"
+    },
+    "is_upcoming_timeslots_filled": false,
+    "tags": [
+      "basic musical instrumental knowledge",
+      "patient with seniors",
+      "first-timers may be considered"
+    ],
+    "skills": [],
+    "badges": [],
+    "categories": [
+      "Elderly",
+      "Arts & Culture"
+    ],
+    "ribbons": []
+  },
+  {
     "id": 2283,
     "title": "SG Cares VC @ BL - Legal Talk on Family Violence",
     "description": "We would like to invite interested participants to our upcoming legal talk with Law Society Pro Bono Services that will be happening on Saturday, 21 Aug 2021. \n\nFind out more about what constitutes abuse, and the processes of the law deal with Family Violence cases.",
