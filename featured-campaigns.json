@@ -773,66 +773,6 @@
     "ribbons": []
   },
   {
-    "id": 2064,
-    "title": "Volunteer with PSALT Care (Online and/or in-person)",
-    "description": "Volunteers will assist to facilitate some of our existing virtual or in-person monthly activities.  \n\nVolunteers may also initiate new programmes or activities that support mental health recovery, which may be included as part of our regular programmes in the future.  \n\nRegular commitment (weekly/bi-weekly) is preferred to better establish rapport with our members.",
-    "external_url": "https://www.psaltcare.com/",
-    "contact_email": "aloysius@psaltcare.com",
-    "one_line_description": "Looking for regular volunteers",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-03-29 10:00:00",
-    "end_datetime": "2022-03-28 11:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 3130,
-    "user_id": 54846,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 0,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 6,
-    "approval_status": null,
-    "organizer": {
-      "id": 302,
-      "name": "PSALT Care Ltd",
-      "description": "Psalt Care Ltd (pronounced as ‘Salt-care’), is a charity organization set up to support and sustain persons with diagnosed mental health and addiction challenges, whom we refer to as ‘clients’, in their recovery journey.  It is a fundamental belief in Psaltcare that recovery is possible. Recovery involves supporting clients, as they continue with the medication prescribed by their doctors, through modalities such as psychotherapy, mental health education, and group support sessions. Psaltcare endeavors to support its clients by means of organizing peer-led support group meetings which are facilitated by formally trained, volunteer Peer Support Specialists.  These small group sessions, each comprising between 12-16 clients, meet regularly to briefly discuss a mental health topic and encourage one another in their recovery journey.  Speaking with empathy from their own lived experiences, the peers and their facilitator share a common bond and sphere of encouragement that non-peers may not fully appreciate. Psaltcare is recognized by the National Council of Social Services(“NCSS”)  as a full member since 1 April 2014.  It is also affiliated to the US-based Depression and Bipolar Support Alliance (“DBSA”) and operates as its recognized Singapore chapter.  A large pool of active volunteers does most of the work, supported by a small team of administrative staff.",
-      "address": "38 Jln Lepas, Singapore 537962",
-      "slug_name": "psalt-care-ltd",
-      "email": "info@psaltcare.com",
-      "imageUrl": "https://workspace.bantu.life/storage/a7dcf85c7f7676a3ae7c254bd0be9190c6de20e47678fc3af71963569f4c7dfb.jpg"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/3K05v0rzciwIS2GD2GUXrRPaIvytEgJEowBLd5Sy.png",
-    "imageOriginalUrl": "blob",
-    "imageHttpUrl": null,
-    "timestamp": 1616983200,
-    "location": {
-      "text": "38 Jalan Lepas",
-      "lat": "1.35591810",
-      "lng": "103.88814170"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "mental, health, condition, gardening, nature, walk, hike, art, support, group, zoom, online, virtual, games, eat, outings"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Elderly",
-      "Family",
-      "Health",
-      "Human Rights",
-      "Employment",
-      "Faith-Based",
-      "Environment"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2002,
     "title": "Medical Escort needed (Weekdays)",
     "description": "We are looking for a volunteer to help to bring one of our elderly clients to the hospital for medical appointment. The medical appointment would be on weekdays and transport cost will be borne by our staff. Client may be on wheelchair bound as well hence, we will be providing training for the interested volunteers.",
