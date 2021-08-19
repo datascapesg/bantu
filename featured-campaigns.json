@@ -220,62 +220,6 @@
     "ribbons": []
   },
   {
-    "id": 2283,
-    "title": "SG Cares VC @ BL - Legal Talk on Family Violence",
-    "description": "We would like to invite interested participants to our upcoming legal talk with Law Society Pro Bono Services that will be happening on Saturday, 21 Aug 2021. \n\nFind out more about what constitutes abuse, and the processes of the law deal with Family Violence cases.",
-    "external_url": null,
-    "contact_email": "Nursriwati.Yusri@thkmc.org.sg",
-    "one_line_description": " ",
-    "video_conference_url": null,
-    "is_online": 1,
-    "start_datetime": "2021-08-21 15:00:00",
-    "end_datetime": "2021-08-21 16:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 30,
-    "user_id": 63304,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 2,
-    "country": "SG",
-    "period": 0,
-    "commitment_type": 0,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 0,
-    "approval_status": null,
-    "organizer": {
-      "id": 265,
-      "name": "Thye Hua Kwan Moral Charities",
-      "description": "ABOUT THK\n\nThye Hua Kwan Moral Charities (THKMC) is the charity arm of Thye Hua Kwan Moral Society (THKMS) and was incorporated in October 2011 as a charity with an IPC status to provide multiple social and welfare services to the community at large. THKMC provides assistance to the various groups in our community through more than 70 programmes, services, welfare homes and centres. These services are catered to namely the Elderly, Families, Children & Youths and Persons with Disabilities.\n\n\nWHY VOLUNTEER WITH THK?\n\nAlways visiting the same old places, or doing the same things during your free time? Not sure how you can better invest your time while making a difference. \n\nWe are here to change your perspective as there’s always a fresh way of looking at something. “Sometimes a break from your routine is the very thing you need!” \nBe a THK Aviator and allocate your time to worthy causes. From caring for youths at risk and the elderly to lending a hand at outreach activities and events, we have endless volunteering opportunities where you will feel good by doing good. \n\n1.\tDiscover yourself – you will be happier and healthier\nLife can be full of challenges but with every new volunteering opportunity, it gives you a new perspective. Donating time to others is good for your mind and body as you get to interact with people and be their voice. The more you volunteer, the more experiences you gain, thus having a special sense of belonging and achievement. \n\n2.\tYou have time for more\nWhen you give your time to others, in turn you will have more time on hand. You connect with others, and when focusing on other people, it makes you feel less time constrained.\n \n3.\tLearn and gain new skills \nVolunteering is like an adventure, oftentimes you might find yourself in for a fun surprise. Giving your time opens opportunities for you to develop and practise new skills such as communication, social and leadership skills. Inspire others to give back and journey as one to help transform lives.",
-      "address": "1 North Bridge Road #03-33 High Street Centre Singapore 179094",
-      "slug_name": "thye-hua-kwan-moral-charities",
-      "email": "volunteer@thkmc.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/2133f20d5b13ea1534d7bfc563672850df071486eebedf9f7e9304ff81ce098d.jpg"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/storage/r039MIsRV9rpGgGzhUeQFZpiRmNmCfXrZl4xZYz5.png",
-    "imageOriginalUrl": "blob",
-    "imageHttpUrl": null,
-    "timestamp": 1629529200,
-    "location": {
-      "text": null,
-      "lat": null,
-      "lng": null
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "Community",
-      "Education"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Elderly",
-      "Family"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2264,
     "title": "Registration Form – Representatitves",
     "description": "Hello! If you are here, you have just received a signup link to join our SG Cares VC@JB Family! Please Register your organisation here as our volunteer member.",
