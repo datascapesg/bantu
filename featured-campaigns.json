@@ -138,7 +138,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 0,
+    "current_team_size": 1,
     "approval_status": null,
     "organizer": {
       "id": 454,
@@ -307,7 +307,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 2,
+    "current_team_size": 3,
     "approval_status": null,
     "organizer": {
       "id": 454,
