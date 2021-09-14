@@ -1,15 +1,15 @@
 [
   {
     "id": 2314,
-    "title": "Student Befriender (After-School)",
+    "title": "Befriender for Student (After-School)",
     "description": "To accompany student for about 1 hour after school, until the arrival of the guardian.\n\n4 weekdays per week, until 28 Sept, from 5.30pm to about 6.30pm. ",
     "external_url": null,
     "contact_email": "xubaoyan@kkcs.org.sg",
     "one_line_description": "To accompany student for about 1 hour after school, until the arrival of the guardian. ",
     "video_conference_url": null,
     "is_online": 0,
-    "start_datetime": "2021-09-14 14:00:00",
-    "end_datetime": "2021-09-28 15:00:00",
+    "start_datetime": "2021-09-14 17:00:00",
+    "end_datetime": "2021-09-28 18:00:00",
     "expiry_datetime": null,
     "max_team_size": 29,
     "user_id": 63315,
@@ -36,7 +36,7 @@
     "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
     "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
     "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1631599200,
+    "timestamp": 1631610000,
     "location": {
       "text": "Marsiling, Singapore",
       "lat": "1.43285680",
