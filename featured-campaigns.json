@@ -8,8 +8,8 @@
     "one_line_description": "Meal delivery support for THK Home Help Service East",
     "video_conference_url": null,
     "is_online": 0,
-    "start_datetime": "2021-09-18 11:00:00",
-    "end_datetime": "2021-10-02 12:00:00",
+    "start_datetime": "2021-09-18 16:00:00",
+    "end_datetime": "2021-10-02 17:00:00",
     "expiry_datetime": null,
     "max_team_size": 150,
     "user_id": 47936,
@@ -36,7 +36,7 @@
     "imageUrl": "https://workspace.bantu.life/storage/aae9UudM1crDzRKRUyX4XIqW9maXFoyfxfIENXVu.jpeg",
     "imageOriginalUrl": "blob",
     "imageHttpUrl": null,
-    "timestamp": 1631934000,
+    "timestamp": 1631952000,
     "location": {
       "text": "Eunos MRT Station (EW7), 30 Eunos Cres, Singapore 409423",
       "lat": "1.31969980",
@@ -52,9 +52,9 @@
       "Deployment of duties are subjected to changes",
       "Briefing and trial sessions will be conducted before the actual deployment takes place.",
       "Physically fit",
-      "Morning shifts are from 845am to 1pm",
       "Afternoon shifts are from 145pm to 630pm",
-      "Please Whatsapp us 87218599 immediately if you are able to support independently with your own vehicle "
+      "Please Whatsapp us 87218599 immediately if you are able to support independently with your own vehicle ",
+      "Morning shifts are from 730am to 1pm"
     ],
     "badges": [],
     "categories": [
