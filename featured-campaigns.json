@@ -177,62 +177,6 @@
     "ribbons": []
   },
   {
-    "id": 2314,
-    "title": "Befriender for Student (After-School)",
-    "description": "To accompany student for about 1 hour after school, until the arrival of the guardian.\n\n4 weekdays per week, until 28 Sept, from 5.30pm to about 6.30pm. ",
-    "external_url": null,
-    "contact_email": "xubaoyan@kkcs.org.sg",
-    "one_line_description": "To accompany student for about 1 hour after school, until the arrival of the guardian. ",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-09-14 17:00:00",
-    "end_datetime": "2021-09-28 18:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 29,
-    "user_id": 63315,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 0,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 0,
-    "approval_status": null,
-    "organizer": {
-      "id": 454,
-      "name": "Kampong Kapor Community Services",
-      "description": null,
-      "address": "https://www.kkcs.org.sg/",
-      "slug_name": "kampong-kapor-community-services",
-      "email": "volunteer@kkcs.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/l84vFwCP4pSjJrryFlSOguq4Kw79vyn5gHGu4yK6.png"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1631610000,
-    "location": {
-      "text": "Marsiling, Singapore",
-      "lat": "1.43285680",
-      "lng": "103.77519290"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "responsible",
-      "committed"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Children",
-      "Family"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2312,
     "title": "Virtual Volunteer Orientation 2021 (Oct)",
     "description": "Welcome to our THKMC family of volunteers, through this orientation we hope to empower you with the necessary information to help you in your course of volunteer work. \n\nApart from meeting fellow volunteers, You will also get the chance to go upclose and personal with our volunteer management and development committee chairperson. \n\nAn online event link will be sent you upon registration of this event.",
