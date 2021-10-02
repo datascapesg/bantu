@@ -1642,7 +1642,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 19,
+    "current_team_size": 20,
     "approval_status": null,
     "organizer": {
       "id": 265,
