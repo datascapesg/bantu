@@ -110,63 +110,6 @@
     "ribbons": []
   },
   {
-    "id": 2328,
-    "title": "Mandarin or Hokkien Speaking Medical Escort",
-    "description": "ComSA @ Whampoa, Tsao Foundation\n\nMedical Escort needed to assist Senior (female) to attend medical appointment at hospital/ polyclinic.\nThe entire session might take 3 to 4 hours. \nVolunteer must be at least 21 years old. ",
-    "external_url": null,
-    "contact_email": "xubaoyan@kkcs.org.sg",
-    "one_line_description": "Medical Escort needed to assist Senior (female) to attend medical appointment at hospital/ polyclinic ",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-10-05 15:00:00",
-    "end_datetime": "2021-10-05 16:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 1,
-    "user_id": 63315,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 0,
-    "country": "SG",
-    "period": 0,
-    "commitment_type": 0,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 0,
-    "approval_status": null,
-    "organizer": {
-      "id": 454,
-      "name": "Kampong Kapor Community Services",
-      "description": null,
-      "address": "https://www.kkcs.org.sg/",
-      "slug_name": "kampong-kapor-community-services",
-      "email": "volunteer@kkcs.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/l84vFwCP4pSjJrryFlSOguq4Kw79vyn5gHGu4yK6.png"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1633417200,
-    "location": {
-      "text": "300 Whampoa Drive",
-      "lat": "1.32481600",
-      "lng": "103.85699500"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "health",
-      "first-timer",
-      "senior"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Elderly",
-      "Health"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2327,
     "title": "Tutor for Pri and Sec School Students (2022)",
     "description": "Make a difference by providing academic support for Pri and Sec School students from disadvantaged families!\n\nWe will do a matching accordingly to your preferred subjects, levels, and available timing. ",
