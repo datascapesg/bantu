@@ -2162,7 +2162,7 @@
     "commitment_type": 1,
     "visibility": 0,
     "all_timeslots_compulsory": 0,
-    "current_team_size": 25,
+    "current_team_size": 26,
     "approval_status": null,
     "organizer": {
       "id": 265,
