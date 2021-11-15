@@ -296,7 +296,7 @@
     "start_datetime": "2021-09-13 08:00:00",
     "end_datetime": "2021-12-31 09:00:00",
     "expiry_datetime": null,
-    "max_team_size": 640,
+    "max_team_size": 630,
     "user_id": 63315,
     "created_at": null,
     "offline_status": 1,
