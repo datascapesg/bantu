@@ -456,63 +456,6 @@
     "ribbons": []
   },
   {
-    "id": 2306,
-    "title": "Volunteer After-Care Officer at SACA",
-    "description": "Oftentimes, ex-offenders struggling to reintegrate into society have a distinct lack of pro-social peers to turn to for support and guidance, it is here that a volunteer can play a crucial role.\n\nThe Singapore After-Care Association (SACA) recruits and trains Volunteer After-Care Officers (VAOs) to assist their clients under their Volunteer After-Care Programme, complementing other initiatives for ex-offenders and their families conducted by our full-time social workers and case managers.\n\nAll roles require a minimum commitment period of 2 years, and volunteers should be at least 23 years old and above.\n\nThe ability to speak a second language is preferred.\n\nPlease not that signing up here indicates your interest for this specific project. If you have yet to register with the SG Cares Volunteer Centre @ Jalan Besar, please do so as well at this link: https://bantu.life/event/2227.",
-    "external_url": null,
-    "contact_email": "rachellow@kkcs.org.sg",
-    "one_line_description": "Helping Ex-Offenders and their Families",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-11-01 11:00:00",
-    "end_datetime": "2023-12-31 12:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 20,
-    "user_id": 63314,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": -60,
-    "country": "SG",
-    "period": 0,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 3,
-    "approval_status": null,
-    "organizer": {
-      "id": 454,
-      "name": "Kampong Kapor Community Services",
-      "description": null,
-      "address": "https://www.kkcs.org.sg/",
-      "slug_name": "kampong-kapor-community-services",
-      "email": "volunteer@kkcs.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/l84vFwCP4pSjJrryFlSOguq4Kw79vyn5gHGu4yK6.png"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1635735600,
-    "location": {
-      "text": "81 Dunlop St, 81 Dunlop St, Singapore 209408",
-      "lat": "1.30519540",
-      "lng": "103.85319150"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "Long-term",
-      "Ex-offenders"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Family",
-      "Human Rights",
-      "Employment"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2304,
     "title": "Tele-befriending with Seniors (Sree Narayana Mission (Singapore)",
     "description": "Tele-befriending with Seniors  (10 Befrienders)\n\n\nBefrienders use their own phones (following safeguarding guidelines) \n- to call one or two beneficiaries bi-weekly providing support and guidance over the phone call \n",
