@@ -112,62 +112,6 @@
     "ribbons": []
   },
   {
-    "id": 2314,
-    "title": "Baby sitter (1 hour daily)",
-    "description": "To fetch toddler from school bus drop-off point at 6pm on weekdays, and accompany toddler for 30 mins to 1 hour, before the dad reached home (an elderly will be home). \n",
-    "external_url": null,
-    "contact_email": "xubaoyan@kkcs.org.sg",
-    "one_line_description": "To accompany toddler for about 1 hour in the evening, until parent return from work. ",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-09-27 15:00:00",
-    "end_datetime": "2021-12-31 16:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 574,
-    "user_id": 63315,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 13,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 1,
-    "approval_status": null,
-    "organizer": {
-      "id": 454,
-      "name": "Kampong Kapor Community Services",
-      "description": null,
-      "address": "https://www.kkcs.org.sg/",
-      "slug_name": "kampong-kapor-community-services",
-      "email": "volunteer@kkcs.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/l84vFwCP4pSjJrryFlSOguq4Kw79vyn5gHGu4yK6.png"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1632726000,
-    "location": {
-      "text": "Hougang, Hougang, Singapore",
-      "lat": "1.36121820",
-      "lng": "103.88625290"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "responsible",
-      "committed"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Children",
-      "Family"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2304,
     "title": "Tele-befriending with Seniors (Sree Narayana Mission (Singapore)",
     "description": "Tele-befriending with Seniors  (10 Befrienders)\n\n\nBefrienders use their own phones (following safeguarding guidelines) \n- to call one or two beneficiaries bi-weekly providing support and guidance over the phone call \n",
@@ -997,62 +941,6 @@
       "Children",
       "Youth",
       "Arts & Culture"
-    ],
-    "ribbons": []
-  },
-  {
-    "id": 467,
-    "title": "AMKFSC Volunteers",
-    "description": "Founded in 1978, AMKFSC Community Services Ltd. (\"AMKFSC\") is a community-based social service agency, which provides a holistic range of services to support children, youths, families and seniors at multiple touchpoints across Singapore.\n\nAMKFSC operates four family service centres across Ang Mo Kio, Sengkang and Punggol. We also provide other support services such as student care, senior services, a youth centre, mental health support programmes and a transitional shelter.\n\n*As the volunteer role is generic, we will reach out to you on the available roles. If you did not receive any email of confirmation, kindly email or call us!",
-    "external_url": "amkfsc.org.sg",
-    "contact_email": "volunteer@amkfsc.org.sg",
-    "one_line_description": "General volunteering supporting all functions of a charity to better the services for the beneficiaries",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2018-11-01 15:00:00",
-    "end_datetime": "2021-12-31 16:00:00",
-    "expiry_datetime": "0000-00-00 00:00:00",
-    "max_team_size": 24810,
-    "user_id": 11148,
-    "created_at": "2018-11-21 13:46:44",
-    "offline_status": 1,
-    "deadline_days": 0,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 0,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 22,
-    "approval_status": null,
-    "organizer": {
-      "id": 128,
-      "name": "AMKFSC Community Services",
-      "description": "Founded in 1978, AMKFSC Community Services Ltd. (\"AMKFSC\") is a leading community-based social service agency, which provides a holistic range of services to support children, youths, families and seniors at multiple touchpoints across Singapore.\n\nAMKFSC operates four family service centres across Ang Mo Kio, Sengkang and Punggol. We also provide other support services such as student care, senior services, a youth centre, a transitional shelter and mental health support programmes.",
-      "address": "133 New Bridge Road, Chinatown Point #04-09 Singapore 059413",
-      "slug_name": "amkfsc",
-      "email": "volunteer@amkfsc.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/13d070ce46e34ec92bad1feef61c3133ce6f68c3a823e4a146661b3464999ca5.jpg"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1541055600,
-    "location": {
-      "text": "133 New Bridge Rd, Singapore 059413",
-      "lat": "1.28520930",
-      "lng": "103.84472280"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Elderly",
-      "Children",
-      "Youth",
-      "Family",
-      "Human Rights"
     ],
     "ribbons": []
   }
