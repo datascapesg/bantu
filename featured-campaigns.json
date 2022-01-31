@@ -175,68 +175,6 @@
     "ribbons": []
   },
   {
-    "id": 2302,
-    "title": "Kallang Polyclinic (Roving Guide, Fall Prevention Advocate, Health Advocate)",
-    "description": "Roving Guides,  Fall Prevention Advocates and Health Advocates needed to assist visitors during Polyclinic's operating hours. \nActual volunteering schedules to be confirmed. \nA half-day training will be provided. \nVolunteers are expected to commit 2 hours weekly for at least 3 months. ",
-    "external_url": null,
-    "contact_email": "xubaoyan@kkcs.org.sg",
-    "one_line_description": "Volunteers to assist visitors. Actual volunteering schedules to be confirmed. ",
-    "video_conference_url": null,
-    "is_online": 0,
-    "start_datetime": "2021-11-01 13:00:00",
-    "end_datetime": "2022-01-31 14:00:00",
-    "expiry_datetime": null,
-    "max_team_size": 2370,
-    "user_id": 63315,
-    "created_at": null,
-    "offline_status": 1,
-    "deadline_days": 56,
-    "country": "SG",
-    "period": 1,
-    "commitment_type": 1,
-    "visibility": 0,
-    "all_timeslots_compulsory": 0,
-    "current_team_size": 3,
-    "approval_status": null,
-    "organizer": {
-      "id": 454,
-      "name": "Kampong Kapor Community Services",
-      "description": null,
-      "address": "https://www.kkcs.org.sg/",
-      "slug_name": "kampong-kapor-community-services",
-      "email": "volunteer@kkcs.org.sg",
-      "imageUrl": "https://workspace.bantu.life/storage/l84vFwCP4pSjJrryFlSOguq4Kw79vyn5gHGu4yK6.png"
-    },
-    "selected_fields": null,
-    "imageUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageOriginalUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "imageHttpUrl": "https://workspace.bantu.life/images/no_campaign_image.jpg",
-    "timestamp": 1635742800,
-    "location": {
-      "text": "Serangoon Road, Serangoon Rd, Singapore",
-      "lat": "1.30518530",
-      "lng": "103.85098330"
-    },
-    "is_upcoming_timeslots_filled": false,
-    "tags": [
-      "medical",
-      "committed",
-      "first-timer",
-      "caring",
-      "patient"
-    ],
-    "skills": [],
-    "badges": [],
-    "categories": [
-      "Elderly",
-      "Children",
-      "Family",
-      "Health",
-      "Disabled"
-    ],
-    "ribbons": []
-  },
-  {
     "id": 2298,
     "title": "Ad-hoc Medical Escorts",
     "description": "Accompany beneficiaries-in-need to their medical appoinments. These beneficiairies may need assistance ambulating from place to place, translation and simplification of doctor's instructions and medication instructions, emotional support etc.",
